@@ -1,0 +1,4 @@
+calculator
+==========
+
+Quick calculator exercise
